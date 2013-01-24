@@ -26,5 +26,19 @@ Another editor worth looking into is [Brackets](http://brackets.io/), an open-so
 
 [Codecademy](http://www.codecademy.com) - A great jumping point. Simple lessons plus a built-in editor lets you see how HTML and CSS affect a document. You will not walk away from Codecademy job-ready, and you definetly won't know how to make a complete website. This is simply a way to wet your appetite and give you some working knowledge before diving into other material.
 
-[A Practical Guide to HTML & CSS](http://learn.shayhowe.com/) - Shay Howe provides resources at the end of each lesson 
+[A Practical Guide to HTML & CSS](http://learn.shayhowe.com/) - Shay Howe provides resources at the end of each lesson so you can dig deeper on the concepts.
+
+[HTML Dog](http://htmldog.com/) - Tutorials, references, etc.
+
+[30 Days to Learn HTML and CSS](https://tutsplus.com/course/30-days-to-learn-html-and-css/) - Free 30-day course available over on Tuts+. taught by Jeffrey Way
+
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Documentation on pretty much everything web development related.
+
+#### Blogs and Websites to Follow
+
+[A List Apart](http://www.alistapart.com/) - Design and development, web standards, best practices, etc. 
+
+[24 Ways](http://24ways.org/) - An advent calendar for web developers. For every day in December, they release a new article.
+
+[Stack Overflow](http://stackoverflow.com/) - Questions? Stack Overflow is where everyone goes for answers, whether you work on software, games, or the web. If it's code-related, it's here. Don't forget to browse the [HTML](http://stackoverflow.com/questions/tagged/html) and [CSS](http://stackoverflow.com/questions/tagged/CSS) tags before posting your question.
 
