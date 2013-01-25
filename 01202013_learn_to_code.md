@@ -22,6 +22,8 @@ _Text Editor_: This is where you'll write your code. You can be as minimal and s
 
 Another editor worth looking into is [Brackets](http://brackets.io/), an open-source editor geared towards front-end web developers. It's open-source and built with HTML, CSS, and Javascript. The thing I love the most about it is that it connects directly to the Chrome browser for live previews: as you edit your CSS, the changes will be pushed to the browser. HTML files need to be saved before they'll be pushed, however. [A guide](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets) on how to use Brackets is available on Github.
 
+_Browser_: [Chrome](https://www.google.com/intl/en/chrome/browser/) or [Firefox](http://www.mozilla.org/en-US/firefox). Don't forget their respective developer tools - [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/) and [Firebug](http://getfirebug.com/).
+
 #### Learning HTML and CSS
 
 [Codecademy](http://www.codecademy.com) - A great jumping point. Simple lessons plus a built-in editor lets you see how HTML and CSS affect a document. You will not walk away from Codecademy job-ready, and you definetly won't know how to make a complete website. This is simply a way to wet your appetite and give you some working knowledge before diving into other material.
@@ -41,4 +43,8 @@ Another editor worth looking into is [Brackets](http://brackets.io/), an open-so
 [24 Ways](http://24ways.org/) - An advent calendar for web developers. For every day in December, they release a new article.
 
 [Stack Overflow](http://stackoverflow.com/) - Questions? Stack Overflow is where everyone goes for answers, whether you work on software, games, or the web. If it's code-related, it's here. Don't forget to browse the [HTML](http://stackoverflow.com/questions/tagged/html) and [CSS](http://stackoverflow.com/questions/tagged/CSS) tags before posting your question.
+
+#### ??
+
+- Bother people. Ask questions. Abuse Google, the Stack Overflow tags I just linked, and communities like [r/webdev](http://www.reddit.com/r/webdev), [r/web_design](http://www.reddit.com/r/web_design), and [/r/learnprogramming](http://www.reddit.com/r/learnprogramming). Find someone to talk at and/or to. Despite all the stereotypes, you really can't afford to be a complete shut-in if you want to learn and grow. I'm the poster child for loners everywhere, and even I do my best to bounce things off of my boyfriend when I'm stuck: not only because he's a genius with an answer for everything, but because it helps to explain the problem out loud (there's an adorable name for this, called [rubber duck problem solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)). More often than not, I have the answer before he even has a chance to reply.
 
