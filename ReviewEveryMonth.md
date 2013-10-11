@@ -1,4 +1,6 @@
-# Buster Benson's guidelines/principles for antifragility - [Live Like a Hydra](https://medium.com/better-humans/c02337782a89)
+# [Live Like a Hydra](https://medium.com/better-humans/c02337782a89)
+
+Buster Benson's guidelines/principles for antifragility
 
 1. Stick to simple rules
 2. Build in redundancy and layers (no single point of failure)
